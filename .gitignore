@@ -18,5 +18,5 @@ dist/
 build/
 
 # Ignore dependency lock files (optional)
-package-lock.json
+
 yarn.lock
